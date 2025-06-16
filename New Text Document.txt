@@ -1,0 +1,2 @@
+This program draws a pattern that for each line the corresponding number of stars is printed in that line until the user
+ determines the number.then the number of stars decreases one by one until the number of stars reaches one.
